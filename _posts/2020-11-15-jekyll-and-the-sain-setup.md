@@ -3,7 +3,7 @@ layout: post
 title: Jekell and the sane setup tools
 date: 2020-11-15 19:50 +0100
 category: 
-author: Michael Whitehouse
+author: Pineapple Man
 tags: []
 summary: 
 ---
