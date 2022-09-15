@@ -3,7 +3,7 @@ layout: post
 title: Markdown cheatsheet
 date: 2020-10-27 21:15
 category: 
-author: Michael Whitehouse
+author: Pineapple Man
 tags: []
 summary: 
 ---
