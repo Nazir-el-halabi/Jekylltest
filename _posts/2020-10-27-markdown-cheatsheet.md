@@ -8,7 +8,7 @@ tags: []
 summary: 
 ---
 
-
+/Users/nazirel-halabi/Desktop/PineapplePizza-Jekyll/_posts/2020-10-27-markdown-cheatsheet.md
 #Jekyll Markdown Quick Reference
 
 
