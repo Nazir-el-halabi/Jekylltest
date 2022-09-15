@@ -21,7 +21,7 @@
 title: Pineapple Pizza Blog
 email: PineapplePizza@pineapples.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal site of Michael Whitehouse
+  This is the official business site for Pineapple Pizza
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jolly-rock-01c676f03.1.azurestaticapps.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PineapplePizza
