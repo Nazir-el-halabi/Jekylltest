@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try our favorit Huawaiin Pineapple Pizza! 
+title: Try our favourite Huawaiin Pineapple Pizza! 
 date: 2022-09-14 19:50 +0100
 category: 
 author: Pineapple Man
